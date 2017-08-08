@@ -1,0 +1,2 @@
+# larashop
+build shop
